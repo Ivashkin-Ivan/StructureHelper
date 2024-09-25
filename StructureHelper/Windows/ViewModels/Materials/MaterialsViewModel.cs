@@ -41,6 +41,7 @@ namespace StructureHelper.Windows.ViewModels.Materials
             else if (parameterType == MaterialType.Elastic) { AddElastic(); }
             else if (parameterType == MaterialType.CarbonFiber) { AddCarbonFiber(); }
             else if (parameterType == MaterialType.GlassFiber) { AddGlassFiber(); }
+            else if (parameterType == MaterialType.Study) { AddStudy(); }
             else throw new StructureHelperException(ErrorStrings.ObjectTypeIsUnknown + $". Expected: {typeof(MaterialType)}, Actual type: {nameof(parameterType)}");
             GlobalRepository.Materials.Create(NewItem);
             base.AddMethod(parameter);
@@ -116,6 +117,12 @@ namespace StructureHelper.Windows.ViewModels.Materials
         {
             var material = HeadMaterialFactory.GetHeadMaterial(HeadmaterialType.Concrete40);
             material.Name = "New Concrete";
+            NewItem = material;
+        }
+        private void AddStudy()
+        {
+            var material = HeadMaterialFactory.GetHeadMaterial(HeadmaterialType.Study);
+            material.Name = "New Study";
             NewItem = material;
         }
         private void CheckParameters(object parameter)

@@ -160,6 +160,11 @@
                 <Button Style="{StaticResource ToolButton}"  Command="{Binding Add}" CommandParameter="{x:Static enums:MaterialType.GlassFiber}" ToolTip="Add Glass Fiber Material">
                     <Image Source="/Windows/MainWindow/GlassMaterial32.png"/>
                 </Button>
+                <!--Study button-->
+                <Button Style="{StaticResource ToolButton}" Command="{Binding Add}" CommandParameter="{x:Static enums:MaterialType.Study}" ToolTip="Add Study Material">
+                    <Image Source="/Windows/MainWindow/StudyButton.png"/>
+                </Button>
+                <!--Study button-->
                 <Button Style="{StaticResource ToolButton}" Command="{Binding EditMaterialsCommand}" ToolTip="Show Materials">
                     <Image Source="/Windows/MainWindow/Materials32.png"/>
                 </Button>

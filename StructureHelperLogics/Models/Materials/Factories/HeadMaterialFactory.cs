@@ -20,7 +20,8 @@ namespace StructureHelperLogics.Models.Materials
         Reinforecement500,
         Elastic200,
         Carbon1400,
-        Glass1200
+        Glass1200,
+        Study,
     }     
 
     public static class HeadMaterialFactory
@@ -37,6 +38,7 @@ namespace StructureHelperLogics.Models.Materials
             if (type == HeadmaterialType.Elastic200) { return GetElastic200(); }
             if (type == HeadmaterialType.Carbon1400) { return GetCarbon1400(); }
             if (type == HeadmaterialType.Glass1200) { return GetGlass1200(); }
+            if (type == HeadmaterialType.Study) { return GetStudy(); }
             else throw new StructureHelperException(ErrorStrings.ObjectTypeIsUnknown + nameof(type));
         }
 
@@ -100,6 +102,12 @@ namespace StructureHelperLogics.Models.Materials
             libMat.TensionForULS = false;
             libMat.TensionForSLS = true;
             material.HelperMaterial = libMat;
+            return material;
+        }
+        private static IHeadMaterial GetStudy()
+        { 
+            var material = new HeadMaterial();
+            material.HelperMaterial = new StudyElasticMaterial() { Modulus = 2e11d, CompressiveStrength = 4e8d, TensileStrength = 4e8d };
             return material;
         }
     }

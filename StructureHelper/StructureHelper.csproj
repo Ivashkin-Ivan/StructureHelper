@@ -27,6 +27,7 @@
     <None Remove="Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\32px_graph_1.png" />
     <None Remove="Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\32px_graph_2.png" />
     <None Remove="Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\32px_interpolation_1_1.png" />
+    <None Remove="Windows\MainWindow\.png" />
     <None Remove="Windows\MainWindow\Analysis32.png" />
     <None Remove="Windows\MainWindow\Beam32.png" />
     <None Remove="Windows\MainWindow\Calculator32.png" />
@@ -47,6 +48,7 @@
     <None Remove="Windows\MainWindow\RFMaterial32.png" />
     <None Remove="Windows\MainWindow\Run.png" />
     <None Remove="Windows\MainWindow\Slab32.png" />
+    <None Remove="Windows\MainWindow\StudyButton.png" />
     <None Remove="Windows\MainWindow\ToBackground.png" />
     <None Remove="Windows\MainWindow\ToForeground.png" />
     <None Remove="Windows\MainWindow\Tools_Settings.png" />
@@ -104,6 +106,8 @@
     <Resource Include="Windows\MainWindow\Edit.png" />
     <Resource Include="Windows\MainWindow\ElasticMaterial32.png" />
     <Resource Include="Windows\MainWindow\GlassMaterial32.png" />
+    <Resource Include="Windows\MainWindow\.png" />
+    <Resource Include="Windows\MainWindow\StudyButton.png" />
     <Resource Include="Windows\MainWindow\Materials32.png" />
     <Resource Include="Windows\MainWindow\MovePrimitivesToCenter.png" />
     <Resource Include="Windows\MainWindow\Point32.png" />
