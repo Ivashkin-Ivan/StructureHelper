@@ -1,0 +1,1438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StructureHelperCommon.Models.Calculators.AccuracyUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculators\Logics\AccuracyUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Calculators.Accuracy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculators\Accuracy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Calculators.FindParameterCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAgQAAABCAICAQAIAAAAAAAAAAAAAAAABI=</HashCode>
+      <FileName>Models\Calculators\FindParameterCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Calculators.FindParameterResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAABgBAAAAAAAQAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Models\Calculators\FindParameterResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Calculators.GenericResult&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Calculators\GenericResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Codes.Factories.CodeFactory" Collapsed="true">
+    <Position X="34.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Codes\Factories\CodeFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Codes.CodeEntity" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAIAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Codes\CodeEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.DesignForceFactory" Collapsed="true">
+    <Position X="36.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\Factories\DesignForceFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.ForceCombinationListFactory" Collapsed="true">
+    <Position X="45.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\Factories\ForceCombinationListFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.ActionUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\Logics\ActionUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.FactorCombinationUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="47" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\Logics\FactorCombinationUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.ForceActionUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAACAAAIAAAAAAAAAAAAAABAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\Logics\ForceActionUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.ForceCombinationListUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="47" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\Logics\ForceCombinationListUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.ForcePairUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\Logics\ForcePairUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.ForceTupleUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\Logics\ForceTupleUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.DesignForcePair" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAAAAAAACCEAAAAAQAAAAAAABAAAAAAAAABBQ=</HashCode>
+      <FileName>Models\Forces\DesignForcePair.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.DesignForceTuple" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAABBA=</HashCode>
+      <FileName>Models\Forces\DesignForceTuple.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.ForceCombinationByFactor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACCAAAAAgAAAACEAAAAAQAAAAAAAAQAAAAAAAAABQ=</HashCode>
+      <FileName>Models\Forces\ForceCombinationByFactor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.ForceCombinationList" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="43.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAABAAAAAAAACEAAAAAQAAAAAAAAAAAAAAAAAABQ=</HashCode>
+      <FileName>Models\Forces\ForceCombinationList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.ForceTuple" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAiAAAAABEAAAUAAAAAAAAAAAAAAAAAAAAEhAABA=</HashCode>
+      <FileName>Models\Forces\ForceTuple.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.InterpolateTuplesResult" Collapsed="true">
+    <Position X="47" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\InterpolateTuplesResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Forces.StrainTuple" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAiAAAAABEAAAUAAAAAAAAAAAAAAAAAAAAEhAABA=</HashCode>
+      <FileName>Models\Forces\StrainTuple.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.TraceTablesFactory" Collapsed="true">
+    <Position X="31.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAASAEAAAAAIAAAAAAAAAAAAAAAiAAAAA=</HashCode>
+      <FileName>Models\Loggers\Factories\TraceTablesFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.LoggerService" Collapsed="true">
+    <Position X="41.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAGAAAAAAAAQAQAAQEAAAAAAAAA=</HashCode>
+      <FileName>Models\Loggers\LoggerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.ShiftTraceLogger" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgQAAAAIAAAAAQCAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Loggers\ShiftTraceLogger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.StringLogEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="43.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAEAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Models\Loggers\StringLogEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.TableLogEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="47" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAABEAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Loggers\TableLogEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.TraceLogger" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAACAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Loggers\TraceLogger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Loggers.LoggerStrings" Collapsed="true">
+    <Position X="43.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAWCAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Loggers\LoggerStrings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.MaterialLogicsFactory" Collapsed="true">
+    <Position X="47" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Factories\MaterialLogicsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.ConcreteCurveLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAQAgJAAAAAAAAAAAQAAAAAAQAAAAABAABAAAA=</HashCode>
+      <FileName>Models\Materials\ConcreteCurveLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.ConcreteLogicOptions" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="45.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAEEAAAAAAgAgAgAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Materials\ConcreteLogicOptions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.ConcreteMaterialOptionLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAIAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\ConcreteMaterialOptionLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.MaterialCommonOptionLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="45.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQAIAAAAAAAAAAAAAoAAAAAgAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\MaterialCommonOptionLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.ReinforcementByBuilderLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="45.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAQCAJAAAAAAAAAAAQAAAAAAQAAAAABAABAAAA=</HashCode>
+      <FileName>Models\Materials\ReinforcementByBuilderLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.ReinforcementLogicOptions" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="47" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAEAAAAAAAAgAgAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Materials\ReinforcementLogicOptions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.ConcreteFactorsFactory" Collapsed="true">
+    <Position X="43.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAABIAAQAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\Factories\ConcreteFactorsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.FRFactorsFactory" Collapsed="true">
+    <Position X="40" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAEAAACAAAIABAIAAAAAAACAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\Factories\FRFactorsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.LibMaterialFactory" Collapsed="true">
+    <Position X="48.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAQAAAAAgAAEAAQIAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\Factories\LibMaterialFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.MaterialPartialFactorUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\Logics\MaterialPartialFactorUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.MaterialSafetyFactorUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\Logics\MaterialSafetyFactorUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.ConcreteMaterialEntity" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="47" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAAAAAgIAAAAgAAQAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\ConcreteMaterialEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.FactorLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\FactorLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.FiberMaterialEntity" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAAAAAgIAAAAgAAQAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\FiberMaterialEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.LibMaterialPepository" Collapsed="true">
+    <Position X="31.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\LibMaterialPepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.MaterialPartialFactor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAACEAAAAAAAAAAAAAAgAAAAIABBA=</HashCode>
+      <FileName>Models\Materials\Libraries\MaterialPartialFactor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.MaterialRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\MaterialRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.MaterialSafetyFactor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAQAAAAAgAAAAAAAAAAQAAAAAAAAAAAUAAAAAABA=</HashCode>
+      <FileName>Models\Materials\Libraries\MaterialSafetyFactor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Materials.Libraries.ReinforcementMaterialEntity" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAAAAAgIAAAAgAAQAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\ReinforcementMaterialEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Parameters.ArrayParameter&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAEAAAAAAUAAA=</HashCode>
+      <FileName>Models\Parameters\ArrayParameter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Parameters.NamedCollection&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Parameters\NamedCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Parameters.NamedValue&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Parameters\NamedValue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Parameters.ProcessDoublePairLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAABAAAAAAAAAAIAQAAAAAAAAAAAAgACAAAAAIAAA=</HashCode>
+      <FileName>Models\Parameters\ProcessDoublePairLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Parameters.ValuePair&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgCAAAAAA=</HashCode>
+      <FileName>Models\Parameters\ValuePair.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Parameters.ValueParameter&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAgAAAQAAAAAAIAAAAAgiAAAAAA=</HashCode>
+      <FileName>Models\Parameters\ValueParameter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Repositories.ListRepository&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAEAAAAAAABAEAAEAAAgAAAAAAAIA=</HashCode>
+      <FileName>Models\Repositories\ListRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Sections.CompressedMemberUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sections\Logics\CompressedMemberUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Sections.RcEccentricityLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAAAAIAAgAAAAAAAAAABBAAAAgIABAAAAABAAAIE=</HashCode>
+      <FileName>Models\Sections\Logics\RcEccentricityLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Sections.CompressedMember" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAAAAAAAAAAAFAAABgAAAAAAAAAAAACAAAAAABA=</HashCode>
+      <FileName>Models\Sections\CompressedMember.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Sections.Logics.ForceTupleCopier" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sections\Logics\ForceTupleCopier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Sections.Logics.ForceTupleMoveToPointDecorator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIIAAgAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sections\Logics\ForceTupleMoveToPointDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Sections.Logics.RcAccEccentricityLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAIAAgAAABAAAAAABAAAAAAIAAAAAAABAAAAA=</HashCode>
+      <FileName>Models\Sections\Logics\RcAccEccentricityLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Sections.Logics.RcEccentricityAxisLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIEAggQAAAAAAAABAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sections\Logics\RcEccentricityAxisLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.CircleShapeUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Shapes\Logics\CircleShapeUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.ConstOneDirectionConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAQAAgAAAAACAAAIQAQAAACAAAAAiAAAAQAAA=</HashCode>
+      <FileName>Models\Shapes\Logics\ConstOneDirectionConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.ConstOneDirectionLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAQAAgAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAA=</HashCode>
+      <FileName>Models\Shapes\Logics\ConstOneDirectionLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.LineShapeUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\Shapes\Logics\LineShapeUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.Point2DUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="43.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Shapes\Logics\Point2DUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.RectangleShapeUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="43.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Shapes\Logics\RectangleShapeUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.CircleShape" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Models\Shapes\CircleShape.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.LineShape" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Shapes\LineShape.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.Point2D" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAYBA=</HashCode>
+      <FileName>Models\Shapes\Point2D.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.Point3D" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="45.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAYBE=</HashCode>
+      <FileName>Models\Shapes\Point3D.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.PointShape" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="48.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Shapes\PointShape.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.RectangleShape" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\Shapes\RectangleShape.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Shapes.Logics.Point3DUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="47" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Shapes\Logics\Point3DUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Soils.AnchorCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAEAAAAgAAAABAAAAQQQIAgAAAAAAAAAAgAAABI=</HashCode>
+      <FileName>Models\Soils\AnchorCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Soils.AnchorResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAgAAAAAAoAAACAAAAAIgAAAAAAAAIAAAA=</HashCode>
+      <FileName>Models\Soils\AnchorResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Soils.AnchorSoilProperties" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgACCAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAgA=</HashCode>
+      <FileName>Models\Soils\AnchorSoilProperties.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Soils.SoilAnchor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEWAABAEAACABAAggEQAgAQAAAAFAAAAAYAAAAEQAA=</HashCode>
+      <FileName>Models\Soils\SoilAnchor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Tables.ShTable&lt;T&gt;" Collapsed="true">
+    <Position X="33" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAEAAAAAAgBAAAAAAAAAAQAAAAAAEIAAAAAAAgA=</HashCode>
+      <FileName>Models\Tables\ShTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Tables.ShTableCell&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAgAgAAAAAAA=</HashCode>
+      <FileName>Models\Tables\ShTableCell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Models.Tables.ShTableRow&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAABAAAAAQAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tables\ShTableRow.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Infrastructures.Exceptions.ErrorCommonProcessor" Collapsed="true">
+    <Position X="43.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Exceptions\ErrorCommonProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Infrastructures.Exceptions.ErrorStrings" Collapsed="true">
+    <Position X="45.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GBEEARCAABAAAAIADAAAAEIBAAAgAAAAAAYEgCAAACA=</HashCode>
+      <FileName>Infrastructures\Exceptions\ErrorString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Infrastructures.Exceptions.StructureHelperException" Collapsed="true">
+    <Position X="45.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Exceptions\StructureHelperException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Infrastructures.Settings.CalcTermEntity" Collapsed="true">
+    <Position X="43.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAEAAAQAAAAAAIAAAAAAgAAAAAA=</HashCode>
+      <FileName>Infrastructures\Settings\CalcTermEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Infrastructures.Settings.CalcTermList" Collapsed="true">
+    <Position X="45.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Settings\CalcTermList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Infrastructures.Settings.GeometryNames" Collapsed="true">
+    <Position X="43.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBICIAgAACAASATAAgAAAAAAAAASAAAAAQgBCAAAA=</HashCode>
+      <FileName>Infrastructures\Settings\GeometryNames.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Infrastructures.Settings.LimitStateEntity" Collapsed="true">
+    <Position X="33" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAQAAAAAAIAAAAAAgAAABAA=</HashCode>
+      <FileName>Infrastructures\Settings\LimitStateEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Infrastructures.Settings.LimitStatesList" Collapsed="true">
+    <Position X="34.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Settings\LimitStatesList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Infrastructures.Settings.ProgramSetting" Collapsed="true">
+    <Position X="34.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAhAEAAAQBAAAAAAEIAABBAAAAQQAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Infrastructures\Settings\ProgramSetting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Services.ColorServices.ColorProcessor" Collapsed="true">
+    <Position X="36.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Services\ColorServices\ColorProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Services.Forces.ForceActionService" Collapsed="true">
+    <Position X="38.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Forces\ForceActionService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Services.Forces.ForceTupleService" Collapsed="true">
+    <Position X="36.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoAAAEAAAAAAAAAAAAACAQACBAAAAAAAAAAAEABAAIA=</HashCode>
+      <FileName>Services\Forces\ForceTupleService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Services.Forces.TupleConverter" Collapsed="true">
+    <Position X="33" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAEAAAAAAAAAAAAEAQAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Forces\TupleConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Services.Units.ConvertUnitLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAgAAABAAIAAAAAAAAgQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Units\ConvertUnitLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Services.Units.GetUnitLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="45.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Units\GetUnitLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Services.Units.ProcessString" Collapsed="true">
+    <Position X="33" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Units\ProcessString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Services.Units.Unit" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAABAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Services\Units\Unit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Services.Units.UnitsFactory" Collapsed="true">
+    <Position X="36.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Units\UnitsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Services.CheckObject" Collapsed="true">
+    <Position X="47" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAACA=</HashCode>
+      <FileName>Services\CheckObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperCommon.Services.DirectRoundLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\DirectRoundLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Services.FixedRoundLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\FixedRoundLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperCommon.Services.SmartRoundLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\SmartRoundLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="StructureHelperCommon.Models.Calculators.IAccuracy" Collapsed="true">
+    <Position X="31.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculators\IAccuracy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Calculators.ICalculator" Collapsed="true">
+    <Position X="10" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Models\Calculators\ICalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Calculators.IHasActionByResult" Collapsed="true">
+    <Position X="33" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculators\IHasActionByResult.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Calculators.IHelperCalculator&lt;TInputData, TCalculationResult&gt;" Collapsed="true">
+    <Position X="40" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculators\IHelperCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Calculators.IInputData" Collapsed="true">
+    <Position X="41.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculators\IInputData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Calculators.IiterationResult" Collapsed="true">
+    <Position X="43.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Models\Calculators\IiterationResult.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Calculators.IResult" Collapsed="true">
+    <Position X="36.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculators\IResult.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Codes.ICodeEntity" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Codes\ICodeEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Forces.IAction" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\IAction.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Forces.IDesignForcePair" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAABAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Forces\IDesignForcePair.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Forces.IDesignForceTuple" Collapsed="true">
+    <Position X="43.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Forces\IDesignForceTuple.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Forces.IForceAction" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Models\Forces\IForceAction.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Forces.IForceCombinationByFactor" Collapsed="true">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAgAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\IForceCombinationByFactor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Forces.IForceCombinationList" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\IForceCombinationList.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Forces.IForceRepository" Collapsed="true">
+    <Position X="47" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\IForceRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Forces.IForceTuple" Collapsed="true">
+    <Position X="48.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAiAAAAABEAAAAAAAAAAAAAAAAAAAAAAAAEhAAAA=</HashCode>
+      <FileName>Models\Forces\IForceTuple.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.ILogger" Collapsed="true">
+    <Position X="45.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Models\Loggers\ILogger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.IShiftTraceLogger" Collapsed="true">
+    <Position X="0.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQAAAAIAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Loggers\IShiftTraceLogger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.ITraceLogger" Collapsed="true">
+    <Position X="0.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAACAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Loggers\ITraceLogger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.ITraceLoggerEntry" Collapsed="true">
+    <Position X="41.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Loggers\ITraceLoggerEntry.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.ICrackedMaterial" Collapsed="true">
+    <Position X="40" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\ICrackedMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.IMaterialLogic" Collapsed="true">
+    <Position X="47" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAJAAAAAAAAAAAQAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Models\Materials\IMaterialLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.IMaterialLogicOptions" Collapsed="true">
+    <Position X="48.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAEAAAAAAAAgAgAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Materials\IMaterialLogicOptions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.IMaterialOptionLogic" Collapsed="true">
+    <Position X="31.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\IMaterialOptionLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.Libraries.IConcreteMaterialEntity" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\IConcreteMaterialEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.Libraries.IFactorLogic" Collapsed="true">
+    <Position X="45.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\IFactorLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.Libraries.IFiberMaterialEntity" Collapsed="true">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\IFiberMaterialEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.Libraries.ILibMaterialEntity" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgIAAAAgAAQAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\ILibMaterialEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.Libraries.IMaterialPartialFactor" Collapsed="true">
+    <Position X="22" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Materials\Libraries\IMaterialPartialFactor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.Libraries.IMaterialRepository" Collapsed="true">
+    <Position X="33" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\IMaterialRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.Libraries.IMaterialSafetyFactor" Collapsed="true">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAgAAAAAAAAAAQAAAAAAAAAAAUAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\IMaterialSafetyFactor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.Libraries.IPartialFactor" Collapsed="true">
+    <Position X="22" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\IPartialFactor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Materials.Libraries.IReinforcementMaterialEntity" Collapsed="true">
+    <Position X="17.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\IReinforcementMaterialEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Parameters.IArrayParameter&lt;T&gt;" Collapsed="true">
+    <Position X="33" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Parameters\IArrayParameter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Parameters.IProcessValuePairLogic&lt;T&gt;" Collapsed="true">
+    <Position X="34.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Parameters\IProcessValuePairLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Parameters.IValuePair&lt;T&gt;" Collapsed="true">
+    <Position X="10.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgCAAAAAA=</HashCode>
+      <FileName>Models\Parameters\IValuePair.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Parameters.IValueParameter&lt;T&gt;" Collapsed="true">
+    <Position X="10.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAgAAAQAAAAAAIAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Parameters\IValueParameter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Sections.IProcessorLogic&lt;T&gt;" Collapsed="true">
+    <Position X="3.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sections\Logics\IProcessorLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Sections.ICompressedMember" Collapsed="true">
+    <Position X="36.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAAAAAAAAAAABAAABgAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Models\Sections\ICompressedMember.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Sections.Logics.IHasInputForce" Collapsed="true">
+    <Position X="36.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sections\Logics\IHasInputForce.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Sections.Logics.IProcessorDecorator&lt;T&gt;" Collapsed="true">
+    <Position X="1" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sections\Logics\IProcessorDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Sections.Logics.IRcAccEccentricityLogic" Collapsed="true">
+    <Position X="3.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAgAAAAAAAAAABAAAAAAIAAAAAAABAAAAA=</HashCode>
+      <FileName>Models\Sections\Logics\IRcAccEccentricityLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Sections.Logics.IRcEccentricityAxisLogic" Collapsed="true">
+    <Position X="5.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sections\Logics\IRcEccentricityAxisLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Shapes.IConvert2DPointTo3DPointLogic" Collapsed="true">
+    <Position X="7.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Models\Shapes\Logics\IConvert2DPointTo3DPointLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Shapes.IConvertPointLogicEntity" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Models\Shapes\Logics\IConvertPointLogicEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Shapes.ICenterShape" Collapsed="true">
+    <Position X="34.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Models\Shapes\ICenterShape.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Shapes.ICircleShape" Collapsed="true">
+    <Position X="5.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Models\Shapes\ICircleShape.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Shapes.ILineShape" Collapsed="true">
+    <Position X="7.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Shapes\ILineShape.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Shapes.IPoint2D" Collapsed="true">
+    <Position X="24.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Models\Shapes\IPoint2D.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Shapes.IPoint3D" Collapsed="true">
+    <Position X="26.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>Models\Shapes\IPoint3D.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Shapes.IPointShape" Collapsed="true">
+    <Position X="0.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Shapes\IPointShape.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Shapes.IRectangleShape" Collapsed="true">
+    <Position X="3" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\Shapes\IRectangleShape.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Shapes.IShape" Collapsed="true">
+    <Position X="4" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Shapes\IShape.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Soils.IAnchorSoilProperties" Collapsed="true">
+    <Position X="28.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAACAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAgA=</HashCode>
+      <FileName>Models\Soils\IAnchorSoilProperties.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Tables.IShTableCell&lt;T&gt;" Collapsed="true">
+    <Position X="38.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAgAgAAAAAAA=</HashCode>
+      <FileName>Models\Tables\IShTableCell.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Models.Tables.IShTableRow&lt;T&gt;" Collapsed="true">
+    <Position X="40" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tables\IShTableRow.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Infrastructures.Interfaces.ICheckInputDataLogic" Collapsed="true">
+    <Position X="12.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Interfaces\ICheckInputDataLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Infrastructures.Interfaces.ICheckLogic" Collapsed="true">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Interfaces\ICheckLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Infrastructures.Interfaces.IDataRepository&lt;T&gt;" Collapsed="true">
+    <Position X="41.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAgAAAAAAAIA=</HashCode>
+      <FileName>Infrastructures\Interfaces\IDataRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Infrastructures.Interfaces.IHasForceCombinations" Collapsed="true">
+    <Position X="34.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Interfaces\IHasForceCombinations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Infrastructures.Interfaces.IHasParent" Collapsed="true">
+    <Position X="38.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Interfaces\IHasParent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Infrastructures.Interfaces.ILogic" Collapsed="true">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Interfaces\ILogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Infrastructures.Interfaces.ILongProcessLogic" Collapsed="true">
+    <Position X="14.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAQAAAACAAAAACAAYAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Interfaces\ILongProcessLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Infrastructures.Interfaces.ISaveable" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Interfaces\ISaveable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Infrastructures.Interfaces.IUpdateStrategy&lt;T&gt;" Collapsed="true">
+    <Position X="45.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Interfaces\IUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Services.Units.IConvertUnitLogic" Collapsed="true">
+    <Position X="38.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Units\IConvertUnitLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Services.Units.IGetUnitLogic" Collapsed="true">
+    <Position X="31.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Units\IGetUnitLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Services.Units.IUnit" Collapsed="true">
+    <Position X="43.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAABAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Services\Units\IUnit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Services.IDigitRoundLogic" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IDigitRoundLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperCommon.Services.IMathRoundLogic" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IMathRoundLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="StructureHelperCommon.Models.Forces.ForceType" Collapsed="true">
+    <Position X="45.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\Factories\DesignForceFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Models.Forces.DesignForceType" Collapsed="true">
+    <Position X="38.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Models\Forces\Factories\ForceCombinationListFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Models.TraceLogStatuses" Collapsed="true">
+    <Position X="41.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAYAAAAAAABAAAAAAQAAAAAAAAEAEAAA=</HashCode>
+      <FileName>Models\Loggers\TraceLogStatuses.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Models.Materials.Libraries.ConcreteFactorType" Collapsed="true">
+    <Position X="36.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAACAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\Factories\ConcreteFactorsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Models.Materials.Libraries.FRFactorType" Collapsed="true">
+    <Position X="48.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Libraries\Factories\FRFactorsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Models.Parameters.DigitPlace" Collapsed="true">
+    <Position X="40" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Parameters\ProcessDoublePairLogic.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Models.Soils.SoilType" Collapsed="true">
+    <Position X="38.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Models\Soils\IAnchorSoilProperties.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Models.Soils.DurabilityType" Collapsed="true">
+    <Position X="43.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Soils\SoilAnchor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Models.Tables.CellRole" Collapsed="true">
+    <Position X="33" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tables\IShTableCell.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Infrastructures.Enums.CalcTerms" Collapsed="true">
+    <Position X="31.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Enums\CalcTerms.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Infrastructures.Enums.CodeTypes" Collapsed="true">
+    <Position X="34.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Enums\CodeTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Infrastructures.Enums.Directions" Collapsed="true">
+    <Position X="41.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>Infrastructures\Enums\Directions.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Infrastructures.Enums.ForceTypes" Collapsed="true">
+    <Position X="47" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAYAAA=</HashCode>
+      <FileName>Infrastructures\Enums\ForceTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Infrastructures.Enums.LimitStates" Collapsed="true">
+    <Position X="31.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Enums\LimitStates.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Infrastructures.Enums.MaterialTypes" Collapsed="true">
+    <Position X="33" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAAAAAAQAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Infrastructures\Enums\MaterialTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Infrastructures.Enums.NatSystems" Collapsed="true">
+    <Position X="34.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAAAAAAAEQ=</HashCode>
+      <FileName>Infrastructures\Enums\NatSystems.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Infrastructures.Enums.SectionStressStates" Collapsed="true">
+    <Position X="36.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Enums\SectionStressStates.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Infrastructures.Enums.StressStates" Collapsed="true">
+    <Position X="40" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructures\Enums\StressStates.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperCommon.Infrastructures.Enums.UnitTypes" Collapsed="true">
+    <Position X="43.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAQAIEAA=</HashCode>
+      <FileName>Infrastructures\Enums\UnitTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

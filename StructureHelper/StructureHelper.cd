@@ -1,0 +1,1451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StructureHelper.Infrastructure.Extensions.ObservableCollectionExtensions" Collapsed="true">
+    <Position X="136.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Extensions\ObservableCollectionExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Converters.Common.InvertBoolConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="132.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Converters\Common\InvertBoolConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Converters.Units.Area" Collapsed="true">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Converters\Units\Area.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Converters.Units.CrackWidth" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Converters\Units\CrackWidth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Converters.Units.Curvature" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Converters\Units\Curvature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Converters.Units.Force" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Converters\Units\Force.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Converters.Units.Length" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Converters\Units\Length.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Converters.Units.Moment" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Converters\Units\Moment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Converters.Units.PlainDouble" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="139.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Converters\Units\PlainDouble.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Converters.Units.Stress" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Converters\Units\Stress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Converters.Units.UnitBase" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAAAAAAAAAAAAAAIAAAAACAAiABIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Converters\Units\UnitBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Converters.Units.UnitConstants" Collapsed="true">
+    <Position X="143.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Infrastructure\UI\Converters\Units\UnitConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.DataContexts.ViewPrimitiveFactory" Collapsed="true">
+    <Position X="134.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\DataContexts\Factories\ViewPrimitiveFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.DataContexts.CircleViewPrimitive" Collapsed="true">
+    <Position X="92" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAABAAAAAAAAAAAAEAAAAAAAIAAABAQAAEAA=</HashCode>
+      <FileName>Infrastructure\UI\DataContexts\CircleViewPrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.DataContexts.PointViewPrimitive" Collapsed="true">
+    <Position X="94.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAABAAAAAAAAAAAAEAAAAAAAIAAABAQAAEAA=</HashCode>
+      <FileName>Infrastructure\UI\DataContexts\PointViewPrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.DataContexts.PrimitiveBase" Collapsed="true">
+    <Position X="94.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yEACFgAg4oDFEAoAOQCAgAYwAIQClIgJAADwoEYgAAA=</HashCode>
+      <FileName>Infrastructure\UI\DataContexts\PrimitiveBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.DataContexts.PrimitiveOperations" Collapsed="true">
+    <Position X="141.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\DataContexts\PrimitiveOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.DataContexts.RectangleViewPrimitive" Collapsed="true">
+    <Position X="96.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAABAAAAAAAAAAAAEAAAAAIAIAAAAAQIAAAA=</HashCode>
+      <FileName>Infrastructure\UI\DataContexts\RectangleViewPrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.DataContexts.ReinforcementViewPrimitive" Collapsed="true">
+    <Position X="94.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\DataContexts\ReinforcementViewPrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.DataTemplates.EllipseTemplate" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="141.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\DataTemplates\EllipseTemplate.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.DataTemplates.RectangleTemplate" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="134.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\DataTemplates\RectangleTemplate.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.PrimitiveTemplates.TemplateFactory" Collapsed="true">
+    <Position X="138" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\PrimitiveTemplates\TemplateFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Triggers.MouseEventTriggers.DoubleClickEventTrigger" Collapsed="true">
+    <Position X="0.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Triggers\MouseEventTriggers\DoubleClickEventTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Triggers.MouseEventTriggers.MouseWheelDownEventTrigger" Collapsed="true">
+    <Position X="3" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Triggers\MouseEventTriggers\MouseWheelDownEventTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.Triggers.MouseEventTriggers.MouseWheelUpEventTrigger" Collapsed="true">
+    <Position X="5.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\Triggers\MouseEventTriggers\MouseWheelUpEventTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.UI.UserControls.PrimitivePopup" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="143.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAgAAAAAAAAAAAAAABAAAAAQAAACAAAAI=</HashCode>
+      <FileName>Infrastructure\UI\UserControls\PrimitivePopup.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.EventArgs&lt;T&gt;" Collapsed="true">
+    <Position X="146.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Infrastructure\EventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.EventTriggerBase&lt;T&gt;" Collapsed="true">
+    <Position X="3" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Infrastructure\EventTriggerBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.MouseBehaviour" Collapsed="true">
+    <Position X="148.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQFAAAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\MouseBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.NamedList&lt;T&gt;" Collapsed="true">
+    <Position X="134.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\NamedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.RelayCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="138" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAAEAEAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\RelayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Infrastructure.ViewModelBase" Collapsed="true">
+    <Position X="68.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Arrays.ArrayView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="136.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Arrays\ArrayView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Arrays.ArrayViewModel" Collapsed="true">
+    <Position X="121.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Arrays\ArrayViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.CrackCalculatorInputDataView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="143.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\Cracks\CrackCalculatorInputDataView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.CrackCalculatorInputDataViewModel" Collapsed="true">
+    <Position X="20" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAhAAAAxAAAIICAAAABQDAAAEAiAAAAAAABAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\Cracks\CrackCalculatorInputDataViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.CrackResultView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="132.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\Cracks\CrackResultView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.CrackResultViewModel" Collapsed="true">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAAAAAAAAAAAAAgAIAAAACQAAAAACAgAAACAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\Cracks\CrackResultViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ShowCrackIsoFieldsLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="134.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAgA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\Cracks\ShowCrackIsoFieldsLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.TupleCrackResultView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="141.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\Cracks\TupleCrackResultView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.TupleCrackResultViewModel" Collapsed="true">
+    <Position X="67.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAgABAAAAAAAAAAAAgAIAAAACAAAAAAAAgAAQCAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\Cracks\TupleCrackResultViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.DiagramFactory" Collapsed="true">
+    <Position X="139.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAgAAIkAAAAACAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\DiagramFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.LabelsFactory" Collapsed="true">
+    <Position X="136.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEEAAAACAAAAAAAIQAAAAAAAAAAAQBAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\LabelsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ShowValuePointDiagramLogic" Collapsed="true">
+    <Position X="146.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAgAAAGCAABAAAAAAAAAEAAAABAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\ShowValuePointDiagramLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.CrackDiagramLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="145" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAEAAAwACiACIgABIGAAYAAAAAAAAAAAUAAABAAQA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\CrackDiagramLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.SetPrestrainView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="146.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAEAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\SetPrestrainView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.SourceToTargetControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="132.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\SourceToTargetControl.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.InteractionDiagramLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="145" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACEAAEQQCgACAABAASgAYQAAACEAAQAQAAAABCAgA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\InteractionDiagramLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ShowCrackResultLogic" Collapsed="true">
+    <Position X="136.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAIAAA0AAQAAAAQEAABAAAAAAAAABQA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\ShowCrackResultLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ShowCrackWidthLogic" Collapsed="true">
+    <Position X="138" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAkAAAAAAAAEAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\ShowCrackWidthLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ShowDiagramLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="139.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAIAQAAgACQgAAECAAYAAAAEAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\ShowDiagramLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ShowProgressLogic" Collapsed="true">
+    <Position X="143.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAQAAAECCABAAAAQAABAAEAAAAAAARAAAIAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\ShowProgressLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.LimitCurveControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="139.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\UserControls\LimitCurveControl.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.SurroundDataControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="134.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAACAAEghAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\UserControls\SurroundDataControl.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.SurroundDataViewModel" Collapsed="true">
+    <Position X="35.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAgAAADAAQAAKCJwCAAQQASAAFAQASwAAgACAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\UserControls\SurroundDataViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ForceCalculatorView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="134.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceCalculatorView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ForceResultsView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="146.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForcesResultsView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ForcesResultsViewModel" Collapsed="true">
+    <Position X="112.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kQAEkEAARggAAAkQQoMQoAKEAMgiAAQkogQGAElQAgQ=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForcesResultsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.LimitCurveCalculatorView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="138" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\LimitCurveCalculatorView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.LimitCurveCalculatorViewModel" Collapsed="true">
+    <Position X="56" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAQABAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\LimitCurveCalculatorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ForceResultLogic.InterpolateValuePointsLogic" Collapsed="true">
+    <Position X="148.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAYAAAgAAAAAABBARgAUEAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\InterpolateValuePointsLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ForceResultLogic.LimitCurveDataService" Collapsed="true">
+    <Position X="141.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\LimitCurveDataService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ForceResultLogic.LimitCurveDataView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="143.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\LimitCurveDataView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ForceResultLogic.LimitCurveDataViewModel" Collapsed="true">
+    <Position X="26.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgAAgAAAQEACAAAgAAAQAAAAhgAAAkACAAAAAE=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\LimitCurveDataViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ForceResultLogic.ValuePointDiagramLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="146.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQIEAAAICABAAAogAAAGSAABAAgAAAAAAAAEAAAACAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\ValuePointDiagramLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.GeometryCalculatorViews.GeometryCalculatorResultView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="134.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\GeometryCalculatorViews\GeometryCalculatorResultView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.ProgressViews.ShowProgressView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="145" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\ProgressViews\ShowProgressView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.ProgressViews.ShowProgressViewModel" Collapsed="true">
+    <Position X="69.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAgAAAAIAAAAAACAACAAgAAgAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\ProgressViews\ShowProgressViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.ProgressViews.TraceDocumentView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="139.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\ProgressViews\TraceDocumentView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.CalculationWindows.ProgressViews.TraceDocumentVM" Collapsed="true">
+    <Position X="107.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAEAA0AACAECAAIAQAAIEEAgBQAAAAQDAIAA=</HashCode>
+      <FileName>Windows\CalculationWindows\ProgressViews\TraceDocumentVM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Errors.ErrorMessage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="143.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Errors\ErrorMessage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.ForceCombinationByFactorView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="136.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Forces\ForceCombinationByFactorView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.ForceCombinationView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="138" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Forces\ForceCombinationView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.ForceInterpolationControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="141.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgABACAAA=</HashCode>
+      <FileName>Windows\Forces\ForceInterpolationControl.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.ForceTupleInterpolationControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="148.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Windows\Forces\ForceTupleInterpolationControl.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.ForceTupleInterpolationViewModel" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgAAAAKaIAEAAAAIICIAAYIFAAiAOAMAAAAwBAAEAE=</HashCode>
+      <FileName>Windows\Forces\ForceTupleInterpolationViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.InterpolateTuplesView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="146.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Forces\InterpolateTuplesView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.InterpolateTuplesViewModel" Collapsed="true">
+    <Position X="29" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Windows\Forces\InterpolateTuplesViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.PointPrimitiveLogic" Collapsed="true">
+    <Position X="17.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Forces\PointPrimitiveLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.PrimitiveValuePoints" Collapsed="true">
+    <Position X="148.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Forces\PrimitiveValuePoints.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.ValueDelegatesLogic" Collapsed="true">
+    <Position X="62.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Forces\ValueDelegatesLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.ValuePointsInterpolateView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="148.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Forces\ValuePointsInterpolateView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.ValuePointsInterpolateViewModel" Collapsed="true">
+    <Position X="42.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAACAABAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Windows\Forces\ValuePointsInterpolateViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Forces.ValuePointsInterpolationInputData" Collapsed="true">
+    <Position X="132.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAEEAAAAAAEAAAIAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Windows\Forces\ValuePointsInterpolationInputData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Graphs.GraphService" Collapsed="true">
+    <Position X="138" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Windows\Graphs\GraphService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Graphs.GraphView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="139.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Graphs\GraphView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Graphs.GraphViewModel" Collapsed="true">
+    <Position X="116.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAABEABAkAEgAAAAAAQAAAUIAEAACgAAQAiAARE=</HashCode>
+      <FileName>Windows\Graphs\GraphViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Graphs.GraphVisualProps" Collapsed="true">
+    <Position X="123.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQAAAAAAAEAIAAAACAAAIAAAAEAAAAABA=</HashCode>
+      <FileName>Windows\Graphs\GraphVisualProps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Graphs.MaterialDiagramViewModel" Collapsed="true">
+    <Position X="125.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCIIAMADCAAgAAAAIAYIAAAUCAGAAAkAgQAFAAAA=</HashCode>
+      <FileName>Windows\Graphs\MaterialDiagramViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.Graphs.Series" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACECCAgAEgAAAAAAQAACEIAAAAAEAAwACAAQA=</HashCode>
+      <FileName>Windows\Graphs\Series.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.MainWindow.Materials.MaterialDiagramView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="146.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Graphs\MaterialDiagramView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.MainWindow.Materials.HeadMaterialsView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="141.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\MainWindow\Materials\HeadMaterialsView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.MainWindow.Materials.HeadMaterialView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="143.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Windows\MainWindow\Materials\HeadMaterialView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.MainWindow.Materials.PartialFactorsView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="138" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\MainWindow\Materials\PartialFactorsView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.MainWindow.AxisCanvasView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="138" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\MainWindow\AxisCanvases\AxisCanvasView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.MainWindow.AxisCanvasVM" Collapsed="true">
+    <Position X="38" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARCAAAAhQAAAIUAQAAAAECAAAAAgAAAAkAAAAIAAgA=</HashCode>
+      <FileName>Windows\MainWindow\AxisCanvases\AxisCanvasVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.MainWindow.CrossSectionVisualPropertyVM" Collapsed="true">
+    <Position X="98.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAAQQFBBAAoAAAQICREEABAAAAAABAQAyAUIABAA=</HashCode>
+      <FileName>Windows\MainWindow\AxisCanvases\CrossSectionVisualPropertyVM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.MainWindow.AboutView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="132.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\MainWindow\AboutView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.MainWindow.CrossSectionModel" Collapsed="true">
+    <Position X="134.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAIAEggAABAAAAAAAAAABAAAAAAAAIAACQA=</HashCode>
+      <FileName>Windows\MainWindow\CrossSectionModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.MainWindow.CrossSectionView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="136.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAQAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Windows\MainWindow\CrossSectionView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.MainWindow.CrossSectionViewModel" Collapsed="true">
+    <Position X="119" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAJEYAggKCEAgAhIEAQAQBECEEAEIQAQgJUCAQAwg=</HashCode>
+      <FileName>Windows\MainWindow\CrossSectionViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.AddMaterialWindow.SafetyFactorsView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="139.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\MainWindow\Materials\SafetyFactorsView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.PrimitiveProperiesWindow.PrimitivePropertiesView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="145" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\PrimitivePropertiesWindow\PrimitivePropertiesView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.PrimitivePropertiesWindow.SelectPrimitivesView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="145" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\PrimitivePropertiesWindow\SelectPrimitivesView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.PrimitivePropertiesWindow.SelectPrimitivesViewModel" Collapsed="true">
+    <Position X="24.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\PrimitivePropertiesWindow\SelectPrimitivesViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.PrimitiveTemplates.RCs.Beams.CircleView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="139.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\PrimitiveTemplates\RCs\Beams\CircleView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.PrimitiveTemplates.RCs.RectangleBeam.RectangleBeamView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="132.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\PrimitiveTemplates\RCs\Beams\RectangleBeamView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Services.CopyByParameterView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="141.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Services\CopyByParameterView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.Services.CopyByParameterViewModel" Collapsed="true">
+    <Position X="31.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAABAAAAAAAAAAIAABACAAAAABACEAAAEAAAAA=</HashCode>
+      <FileName>Windows\Services\CopyByParameterViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.UserControls.MultiplyDouble" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="132.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAACAACAAAACACCAAAAAAEAAAEAEgACEAAAAACA=</HashCode>
+      <FileName>Windows\UserControls\MultiplyDouble.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Calculations.CalculationProperies.CalculationPropertyViewModel" Collapsed="true">
+    <Position X="101" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAQAACAEBAAQAAAAAiAAAAEAIAEAMBAA=</HashCode>
+      <FileName>Windows\ViewModels\Calculations\CalculationProperites\CalculationPropertyViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Calculations.CalculationResult.CalculationResultViewModel" Collapsed="true">
+    <Position X="110" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAoAIAAAACAAAABAAAAAAQAgA=</HashCode>
+      <FileName>Windows\ViewModels\Calculations\CalculationResult\CalculationResultViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Calculations.Calculators.GeometryCalculatorVMs.GeometryCalculatorResultViewModel" Collapsed="true">
+    <Position X="114.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQgAAAAAABIAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Calculations\Calculators\GeometryCalculatorVMs\GeometryCalculatorResultViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Calculations.Calculators.ForceCalculatorViewModel" Collapsed="true">
+    <Position X="53.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAIIAgAAARAASAIAAABAAQAAAAEAAAIQAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Calculations\Calculators\ForceCalculatorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Calculations.Calculators.SetPrestrainViewModel" Collapsed="true">
+    <Position X="148.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAQAAAAECAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Calculations\Calculators\SetPrestrainViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Errors.ErrorProcessor" Collapsed="true">
+    <Position X="145" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Errors\ErrorProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Errors.SafetyProcessor" Collapsed="true">
+    <Position X="141.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Errors\SafetyProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.SourceTargetFactory" Collapsed="true">
+    <Position X="148.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAEAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Factories\SourceTargetFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.SelectPrimitivesSourceTarget" Collapsed="true">
+    <Position X="71.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Primitives\SelectPrimitivesSourceTarget.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.CRUDVMEventArgs" Collapsed="true">
+    <Position X="138" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\CRUDVMEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.OkCancelViewModelBase" Collapsed="true">
+    <Position X="38" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAIAABAAABAAAA=</HashCode>
+      <FileName>Windows\ViewModels\OkCancelViewModelBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.SelectItemsVM&lt;TItem&gt;" Collapsed="true">
+    <Position X="65" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACCAAAAChAAACiAAAAAAAAAAAIAAQAAAAQAAFAAAA=</HashCode>
+      <FileName>Windows\ViewModels\SelectItemsVM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.SelectItemVM&lt;TItem&gt;" Collapsed="true">
+    <Position X="78.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAAEJASAABAEAAAEACAgEAAAACADAAAQAAAQA=</HashCode>
+      <FileName>Windows\ViewModels\SelectItemVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.SourceTargetVM&lt;TItem&gt;" Collapsed="true">
+    <Position X="103.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAEQAAAFEAAAAAEAAUABAAAIEAAAAEAABAQA=</HashCode>
+      <FileName>Windows\ViewModels\SourceTargetVM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Forces.ActionsViewModel" Collapsed="true">
+    <Position X="74" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAACAAABEAAAAEACAAAAAAAAAAAAARAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Forces\ActionsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Forces.ForceActionVMBase" Collapsed="true">
+    <Position X="48.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAGAgAAAQAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Windows\ViewModels\Forces\ForceActionVMBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Forces.ForceCombinationByFactorVM" Collapsed="true">
+    <Position X="47" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAQAgCAgAIAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Forces\ForceCombinationByFactorVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Forces.ForceCombinationViewModel" Collapsed="true">
+    <Position X="49.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Forces\ForceCombinationViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Forces.ForceTuplesViewModel" Collapsed="true">
+    <Position X="83" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Forces\ForceTuplesViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Forces.ForceTupleVM" Collapsed="true">
+    <Position X="128" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAiAAAAABEAAAAAAAAAAIAAAAAAAAAAAAAEgAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Forces\ForceTupleVM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Help.AboutViewModel" Collapsed="true">
+    <Position X="22.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Help\AboutViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Materials.ConcreteViewModel" Collapsed="true">
+    <Position X="89.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAACAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Materials\ConcreteViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Materials.ElasticViewModel" Collapsed="true">
+    <Position X="87.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAEAAAAAAAAAAAAQAAAgAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Materials\ElasticViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Materials.FRViewModel" Collapsed="true">
+    <Position X="87.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAABEAAAAAAAABAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Materials\FRViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Materials.HeadMaterialsViewModel" Collapsed="true">
+    <Position X="58.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIqABABCxCS2ABQAFAAAAgAIIAQAAACAACCAYAAAAE=</HashCode>
+      <FileName>Windows\ViewModels\Materials\HeadMaterialsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Materials.HeadMaterialViewModel" Collapsed="true">
+    <Position X="33.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgACAAAAAAAAAAQAAIAAAAAAAgAAgIAAAIA=</HashCode>
+      <FileName>Windows\ViewModels\Materials\HeadMaterialViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Materials.HelperMaterialViewModel" Collapsed="true">
+    <Position X="88.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Materials\HelperMaterialViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Materials.LibMaterialViewModel&lt;T&gt;" Collapsed="true">
+    <Position X="89.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASAAAAAgEAAAAAAAAABAAAAAAgAkABAABCAABAEgA=</HashCode>
+      <FileName>Windows\ViewModels\Materials\LibMaterialViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Materials.MaterialsViewModel" Collapsed="true">
+    <Position X="76.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACACAAABgAAAAEACAgoABIAAAAAMAQAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Materials\MaterialsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Materials.PartialFactorsViewModel" Collapsed="true">
+    <Position X="78.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Materials\PartialFactorsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Materials.ReinforcementViewModel" Collapsed="true">
+    <Position X="136.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Materials\ReinforcementViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Materials.SafetyFactorsViewModel" Collapsed="true">
+    <Position X="80.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAAgAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Windows\ViewModels\Materials\SafetyFactorsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.NdmCrossSections.AnalysisViewModelLogic" Collapsed="true">
+    <Position X="85.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gJAwAAAAAAACAAEBACAgAAAKAAgAAAAEACgAARBCgAI=</HashCode>
+      <FileName>Windows\ViewModels\NdmCrossSections\AnalysisViewModelLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.NdmCrossSections.ForceCombinationViewModelLogic" Collapsed="true">
+    <Position X="130.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEIAAAAAAEACCBAAAAAAAAIIAgEAAAACABAAABAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\NdmCrossSections\ForceCombinationViewModelLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.NdmCrossSections.HasDivisionViewModel" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Windows\ViewModels\NdmCrossSections\HasDivisionViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.NdmCrossSections.HelpLogic" Collapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\NdmCrossSections\HelpLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.NdmCrossSections.PrimitiveViewModelLogic" Collapsed="true">
+    <Position X="60.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0QIAAAAABEJSCAGAEFAAgFAAEgEiAAACAFhAAAAgIQA=</HashCode>
+      <FileName>Windows\ViewModels\NdmCrossSections\PrimitiveViewModelLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.NdmCrossSections.SecondOrderViewModel" Collapsed="true">
+    <Position X="143.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAABgAAAAAAAAAACACAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\NdmCrossSections\SecondOrderViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.PrimitiveProperties.PrimitivePropertiesViewModel" Collapsed="true">
+    <Position X="40.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAFgAAJgAEESAAGAAIAEYAAJQAAAABAgCBgYAAAEA=</HashCode>
+      <FileName>Windows\ViewModels\PrimitiveProperties\PrimitivePropertiesViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.Primitives.RectangleControlViewModel" Collapsed="true">
+    <Position X="105.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\Primitives\RectangleControlViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.PrimitiveTemplates.RCs.CircleViewModel" Collapsed="true">
+    <Position X="44.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAQAACAQAAAAAAAAAAAAAAAgBAAAAAAg=</HashCode>
+      <FileName>Windows\ViewModels\PrimitiveTemplates\RCs\CircleViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Windows.ViewModels.PrimitiveTemplates.RCs.RectangleBeamViewModel" Collapsed="true">
+    <Position X="51.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAABAAAAQAASAQEAGAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\PrimitiveTemplates\RCs\RectangleBeamViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StructureHelper.Services.Exports.ExportToFileInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="148.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAABAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Services\Exports\ExportToFileInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Services.Exports.ExportToFileService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="132.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAABAAAAAAAAEAABAEAAAAgQAA=</HashCode>
+      <FileName>Services\Exports\ExportToFileService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Services.Primitives.PrimitiveRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="146.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABAAAAAQAAAAAAAEAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Services\Primitives\PrimitiveRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Services.Reports.CalculationReports.IsoFieldReport" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="134.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAEAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Reports\CalculationReports\IsoFieldReport.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Services.ResultViewers.CrackResultFunc" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="146.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAgAAAAAAAAAAAAAQAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ResultViewers\CrackResultFunc.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Services.ResultViewers.CrackResultFuncFactory" Collapsed="true">
+    <Position X="148.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIACAAAAAAAAAQAACAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Services\ResultViewers\CrackResultFuncFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Services.ResultViewers.ForceResultFunc" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="143.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAgAAAAAAAAAAAAAQAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ResultViewers\ForceResultFunc.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Services.ResultViewers.ForceResultFuncFactory" Collapsed="true">
+    <Position X="145" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAIAAAAAAABAIQAAAQAAAAAAAQBABAAAAAAAA=</HashCode>
+      <FileName>Services\ResultViewers\ForceResultFuncFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Services.ResultViewers.ShowAnchorageResult" Collapsed="true">
+    <Position X="132.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAgAAAARAAAACQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ResultViewers\ShowAnchorageResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Services.ResultViewers.ShowIsoFieldResult" Collapsed="true">
+    <Position X="141.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAAAAAAABAAAAAAQQAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ResultViewers\ShowIsoFieldResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Services.Settings.GlobalRepository" Collapsed="true">
+    <Position X="136.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Services\Settings\GlobalRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Models.Calculators.LimitCurveVisualCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="145" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAABAAAAAQAAAAAAAAAAAAAAAAAABI=</HashCode>
+      <FileName>Models\Calculators\LimitCurveVisualCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Models.Forces.ForceCombinationViewObject" Collapsed="true">
+    <Position X="139.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Forces\ForceCombinationViewObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Models.Forces.ForceTupleViewObject" Collapsed="true">
+    <Position X="132.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAiAAAAABEAAAARAAAAAIAAAAAAAASAAAAEgAAAI=</HashCode>
+      <FileName>Models\Forces\ForceTupleViewObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Models.Materials.ConcreteDefinition" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\ConcreteDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Models.Materials.MaterialDefinitionBase" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIAAAgAEAAAAAAAQAAAAAAAQAAAAAAgAAAAACAAA=</HashCode>
+      <FileName>Models\Materials\MaterialDefinitionBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.Models.Materials.RebarDefinition" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\RebarDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.UnitSystem.SystemSi" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="136.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAABACAQAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnitSystem\Systems\SystemSi.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.UnitSystem.UnitSystemService" Collapsed="true">
+    <Position X="145" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>UnitSystem\UnitSystemService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelper.App" Collapsed="true">
+    <Position X="134.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAQAAAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="StructureHelper.Infrastructure.UI.DataContexts.IHasCenter" Collapsed="true">
+    <Position X="136.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\DataContexts\IHasCenter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Infrastructure.UI.DataContexts.IHasDivision" Collapsed="true">
+    <Position X="138" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\DataContexts\IHasDivision.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Infrastructure.UI.PrimitiveTemplates.IRectangleBeamProperties" Collapsed="true">
+    <Position X="141.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\UI\PrimitiveTemplates\IRectangleBeamProperties.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.IShowCrackIsoFieldsLogic" Collapsed="true">
+    <Position X="145" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\Cracks\IShowCrackIsoFieldsLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Windows.CalculationWindows.CalculatorsViews.ForceCalculatorViews.ForceResultLogic.IValuePointDiagramLogic" Collapsed="true">
+    <Position X="148.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAGCAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\CalculationWindows\CalculatorsViews\ForceCalculatorViews\ForceResultLogic\IValuePointDiagramLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Windows.ViewModels.ICRUDViewModel&lt;TItem&gt;" Collapsed="true">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAEAACAAAAAAAAAAAAgEAAAACABAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\ICRUDViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Windows.ViewModels.NdmCrossSections.ICalculatorsViewModelLogic" Collapsed="true">
+    <Position X="8.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Windows\ViewModels\NdmCrossSections\ICalculatorsViewModelLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Windows.ViewModels.NdmCrossSections.IForceCombinationViewModelLogic" Collapsed="true">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\ViewModels\NdmCrossSections\IForceCombinationViewModelLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Services.Exports.IExportService" Collapsed="true">
+    <Position X="132.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Exports\IExportService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Services.Exports.IExportToFileInputData" Collapsed="true">
+    <Position X="134.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAABAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Services\Exports\IExportToFileInputData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Services.Primitives.IPrimitiveRepository" Collapsed="true">
+    <Position X="139.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABAAAAAAAAAAAAAEAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Services\Primitives\IPrimitiveRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Services.Reports.CalculationReports.IIsoFieldReport" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Reports\CalculationReports\IIsoFieldReport.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Services.Reports.IReport" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Reports\IReport.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Services.ResultViewers.IResultFunc&lt;T&gt;" Collapsed="true">
+    <Position X="143.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAgAAAAAAAAAAAAAQAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ResultViewers\IResultFunc.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.UnitSystem.Systems.IUnitSystem" Collapsed="true">
+    <Position X="146.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAABACAQAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnitSystem\Systems\IUnitSystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="StructureHelper.Infrastructure.Enums.ActionType" Collapsed="true">
+    <Position X="132.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAACAAAAA=</HashCode>
+      <FileName>Infrastructure\Enums\ActionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelper.Infrastructure.Enums.CalculatorTypes" Collapsed="true">
+    <Position X="134.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABA=</HashCode>
+      <FileName>Infrastructure\Enums\CalculatorTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelper.Infrastructure.Enums.MaterialType" Collapsed="true">
+    <Position X="141.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAAAAAAxAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Infrastructure\Enums\MaterialType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelper.Infrastructure.Enums.PrimitiveType" Collapsed="true">
+    <Position X="146.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAgAAAAAAAAAAAAAggAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Enums\PrimitiveType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelper.Services.ResultViewers.FuncsTypes" Collapsed="true">
+    <Position X="138" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAIAAA=</HashCode>
+      <FileName>Services\ResultViewers\ForceResultFuncFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelper.UnitSystem.Enums.Force" Collapsed="true">
+    <Position X="136.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnitSystem\Enums\SystemTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelper.UnitSystem.Enums.Pressure" Collapsed="true">
+    <Position X="145" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnitSystem\Enums\SystemTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelper.UnitSystem.Enums.Length" Collapsed="true">
+    <Position X="139.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>UnitSystem\Enums\SystemTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelper.UnitSystem.Enums.MultiplyPrefix" Collapsed="true">
+    <Position X="143.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>UnitSystem\Enums\SystemTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

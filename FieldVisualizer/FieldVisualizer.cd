@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FieldVisualizer.Infrastructure.Commands.RelayCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAAEAEAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfraStructures\Comands\RelayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FieldVisualizer.InfraStructures.Exceptions.FieldVisulizerException" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfraStructures\Exceptions\FieldVisulizerException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldVisualizer.InfraStructures.Strings.ErrorStrings" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfraStructures\Strings\ErrorStrings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldVisualizer.Windows.UserControls.FieldViewer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAhAAAAAAAAQIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\UserControls\FieldViewer.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FieldVisualizer.Windows.UserControls.VerticalLegend" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\UserControls\VerticalLegend.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FieldVisualizer.Windows.WndFieldViewer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Windows\WndFieldViewer.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FieldVisualizer.WindowsOperation.FieldViewerOperation" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WindowsOperation\FieldViewerOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldVisualizer.Entities.ColorMaps.Factories.ColorMapFactory" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAEAAAAAAAAAAgAAAQAAAAAQAAAAACA=</HashCode>
+      <FileName>Entities\ColorMaps\Factories\ColorMapFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldVisualizer.Entities.ColorMaps.ColorMap" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Entities\ColorMaps\ColorMap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FieldVisualizer.Entities.ColorMaps.ValueColorArray" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAQE=</HashCode>
+      <FileName>Entities\ColorMaps\ValueColorArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FieldVisualizer.Entities.ColorMaps.ValueColorRange" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Entities\ColorMaps\ValueColorRange.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FieldVisualizer.Entities.Values.Primitives.CirclePrimitive" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAhAQAAAAA=</HashCode>
+      <FileName>Entities\Values\Primitives\CirclePrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FieldVisualizer.Entities.Values.Primitives.PrimitiveSet" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Values\Primitives\PrimitiveSet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FieldVisualizer.Entities.Values.Primitives.RectanglePrimitive" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAGAAAAEAAAAAAAAAAAAAgAQAAAAA=</HashCode>
+      <FileName>Entities\Values\Primitives\RectanglePrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FieldVisualizer.Entities.Values.ValueRange" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Entities\Values\ValueRange.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FieldVisualizer.Services.ColorServices.ColorOperations" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAAAAAAAAAAAAgIAAAAAAAABCABAAAEAgAAAAAAA=</HashCode>
+      <FileName>Services\ColorServices\ColorOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldVisualizer.Services.PrimitiveServices.PrimitiveOperations" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgACAAAAAAAADAAAAAAAAAAAAAAAEACAAAAAAAA=</HashCode>
+      <FileName>Services\PrimitiveServices\PrimitiveOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldVisualizer.Services.PrimitiveServices.TestPrimitivesOperation" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Services\PrimitiveServices\TestPrimitivesOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldVisualizer.Services.ValueRanges.ValueRangeOperations" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ValueRanges\ValueRangeOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldVisualizer.ViewModels.FieldViewerViewModels.FieldViewerViewModel" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BkAARgQAQAnCAcgA2MVCKUAQAKmAAcFAAIgJgABACKI=</HashCode>
+      <FileName>ViewModels\FieldViewerViewModels\FieldViewerViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FieldVisualizer.ViewModels.ViewModelBase" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="FieldVisualizer.Entities.ColorMaps.IColorMap" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Entities\ColorMaps\IColorMap.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FieldVisualizer.Entities.ColorMaps.IValueColorArray" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAQE=</HashCode>
+      <FileName>Entities\ColorMaps\IValueColorArray.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FieldVisualizer.Entities.ColorMaps.IValueColorRange" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Entities\ColorMaps\IValueColorRange.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FieldVisualizer.Entities.Values.Primitives.ICenter" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Values\Primitives\ICenter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FieldVisualizer.Entities.Values.Primitives.ICirclePrimitive" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Entities\Values\Primitives\ICirclePrimitive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FieldVisualizer.Entities.Values.Primitives.IPrimitiveSet" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Values\Primitives\IPrimitiveSet.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FieldVisualizer.Entities.Values.Primitives.IRectanglePrimitive" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Values\Primitives\IRectanglePrimitive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FieldVisualizer.Entities.Values.Primitives.IValuePrimitive" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAgAQAAAAA=</HashCode>
+      <FileName>Entities\Values\Primitives\IValuePrimitive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FieldVisualizer.Entities.Values.IValueRange" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Entities\Values\IValueRange.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="FieldVisualizer.Entities.ColorMaps.Factories.ColorMapsTypes" Collapsed="true">
+    <Position X="5.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAEAAAAIAAgAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\ColorMaps\Factories\ColorMapFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

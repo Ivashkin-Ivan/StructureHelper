@@ -1,0 +1,1990 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurve.ConvertLogicFactory" Collapsed="true">
+    <Position X="38" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\Factories\ConvertLogicFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurve.ConvertLogics" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\Factories\ConvertLogics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurve.Factories.GetPredicateLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAgAAAAAAUAAEAAAAAAAAgAAAAAABA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\Factories\GetPredicateLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.PredicateEntry" Collapsed="true">
+    <Position X="27.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAUAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\Factories\PredicateEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.PredicateFactory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACgAgAAIiAAAAAAAAAEAAAAAAAAggAAAAAAQ=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\Factories\PredicateFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurveCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQAAAAAAgAAAABAAAAAQIYAAAAgAAAEAAAgAAABI=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\LimitCurveCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurveInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAEAAAAAQAAAAggAAAgAAAAAABA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\LimitCurveInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurveLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAKAAAAAAgIAAQBAAAAACCIAACAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\LimitCurveLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurveParameterLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAQAAgAAAABAAAAAAAIAABAAAAAAAAAAAAQBA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\LimitCurveParameterLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurveResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggAAAAAgBAAQAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\LimitCurveResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurvesCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAgAAAAgAAAAlAAAAAQAIAAAAAAAAAAAAAAAARI=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\LimitCurvesCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurvesResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAgBAAAAAAAAAAAAAAAAAAAgAAQ=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\LimitCurvesResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.RectSurroundProc" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIAAAAAAAAAAAAAAAAAAAQAgAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\RectSurroundProc.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.RoundSurroundProc" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\RoundSurroundProc.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.StabLimitCurveLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\StabLimitCurveLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.SurroundData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAACAgCAAQAAQAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\SurroundData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ForceTupleTraceResultLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAACAAoAAIAAAAAEAIAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\Logics\ForceTupleTraceResultLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ProcessTupleLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\Logics\ProcessTupleLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ForceCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAAAEABAAgxAABVAgIAAQoIAACAAAAACAACAAAQRI=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\ForceCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ForceInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\ForceInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ForcesResults" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgBAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\ForcesResults.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ForcesTupleResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAIAAAAgAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\ForcesTupleResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ForceTupleCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAEAgAAAAAAAAAAQQoAACAAAAAAAAAAAAABI=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\ForceTupleCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ForceTupleInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\ForceTupleInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.Logics.ForceCalculatorUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\Logics\ForceCalculatorUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.Logics.InterpolationProgressLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAQgAgICAAAAACAAYAAAAAAAAAAAAQAAEAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\Logics\InterpolationProgressLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.Logics.LimitCurveInputDataUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\Logics\LimitCurveInputDataUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.Logics.LimitCurvesCalculatorUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\Logics\LimitCurvesCalculatorUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.Logics.SofteningFactorLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAIAgAAAAAAAAAAAAAAAAAIAQAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\Logics\SofteningFactorLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.Logics.SurroundDataUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\Logics\SurroundDataUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.Geometry.GeometryCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAggAACAAAAAAAQAIAAAAAAAAAAAAAAAABI=</HashCode>
+      <FileName>NdmCalculations\Analyses\Geometry\GeometryCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.Geometry.GeometryResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAgAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\Geometry\GeometryResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.Logics.CalculatorUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\Logics\CalculatorUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.RC.AnchorageCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAEAAAAgAAAAAAAAAAACQAAAAACAAAEAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\RC\AnchorageCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.RC.AnchorageInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAIgAAAAAAAoAAAAAAAAAAAAABAAAAAAAAgg=</HashCode>
+      <FileName>NdmCalculations\Analyses\RC\AnchorageInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.RC.InputDataFactory" Collapsed="true">
+    <Position X="17" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAIAAAAAAAAAAAAAAYAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\RC\InputDataFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ExportForceResultToCSVLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAABAAAGAAAAAgAABAAAABAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ExportForceResultToCSVLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ExportFrameWorkElementLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAIAAAABAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ExportFrameWorkElementLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ExportGeometryResultToCSVLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAABAAABAAAGAAAAAAAABAAAABAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ExportGeometryResultToCSVLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Analyses.ExportResultToBitmapLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ExportResultToBitmapLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.BucklingInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAgAAkAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\BucklingInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.ConcreteBucklingCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAgAQAAAAAYACRCoAAAAAAIAIEkAAEAQRI=</HashCode>
+      <FileName>NdmCalculations\Buckling\ConcreteBucklingCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.ConcreteBucklingOptions" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAARAAAAAEAAAAAAAAAAAAAAAAAAAAABAg=</HashCode>
+      <FileName>NdmCalculations\Buckling\ConcreteBucklingOptions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.ConcreteBucklingResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\ConcreteBucklingResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.ConstDeltaELogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\ConstDeltaELogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.ConstPhiLLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\ConstPhiLLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.CriticalForceSP63Logic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAAAggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\CriticalForceSP63Logic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.DeltaELogicSP63" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAhAAAAAIEABgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\DeltaELogicSP63.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.EilerCriticalForceLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICAAAAQAAAggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\EilerCriticalForceLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.ForceTupleBucklingLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABEAAAgRAABABAIAAAAAAAAAQQAAAAABAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\ForceTupleBucklingLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.PhiLogicSP63" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAUCAAAAgAABAAAAAAAAAAAAAAAAAAAAAAACAAIA=</HashCode>
+      <FileName>NdmCalculations\Buckling\PhiLogicSP63.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.ProcessEccentricity" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAIAAgQAAhAAAAAAAAAAAAAAAAEACAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\ProcessEccentricity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Buckling.RCStiffnessLogicSP63" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAIAACEAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\RCStiffnessLogicSP63.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackWidthLogicInputDataFactory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAggAIAAAEAAAAAABCAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\Factories\CrackWidthLogicInputDataFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.ExpSofteningLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggCkAAAAgAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\SofteningLogics\ExpSofteningLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.RebarStressSofteningLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACABRIEgAgAAkAAJAAICAAAAAABCAAACAAAAQggAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\SofteningLogics\RebarStressSofteningLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.StabSoftetingLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAEACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\SofteningLogics\StabSoftetingLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CheckCrackCalculatorInputDataLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEgAAgAgAAAABAACAAAAAkAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CheckCrackCalculatorInputDataLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CheckTupleCalculatorInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAgAgAAAABAACAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CheckTupleCalculatorInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiABAIAAAgCAAAFAEAAAQAAAgAIAAAAAAEAAAAQBI=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackCalculatorUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackCalculatorUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackedConcreteNdmLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAABCAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackedConcreteNdmLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackedLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAFCAAoAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackedLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackedSectionTriangulationLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAIgAAAAAAEAACACABAAAAAAAAEEAAAAAQA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackedSectionTriangulationLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackForceCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgBgIAoggAADAAIAAQCIAAAAAACAAAQiAAAABI=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackForceCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackForceResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABKAAoAgAAAAgQAAAAAAAgAAAAEBAAgAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackForceResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackInputDataUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackInputDataUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackStrainLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAhAAAAAAQBAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackStrainLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackWidthLogicInputDataSP63" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAIAgGAAAAAAAABAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackWidthLogicInputDataSP63.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackWidthLogicSP63" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAgAgAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackWidthLogicSP63.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackWidthRebarTupleResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAABAAAAAAAAAAAAAAAAAAAJA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackWidthRebarTupleResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.CrackWidthTupleResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA=</HashCode>
+      <FileName>NdmCalculations\Cracking\CrackWidthTupleResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.EquivalentDiameterLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAgAAAAAAEAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>NdmCalculations\Cracking\EquivalentDiameterLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.GetTupleInputDatasLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAgBQAAAAAAAAAIAAAAAAgIACAAABAARAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\GetTupleInputDatasLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.LengthBetweenCracksLogicSP63" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoAAABAhAgAAACBAEQAAIBAAAACFAQCAEAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\LengthBetweenCracksLogicSP63.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.RebarCrackCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAQEgAgAAAABAAAAAQAIAAAgAEAAAQAAAAAABI=</HashCode>
+      <FileName>NdmCalculations\Cracking\RebarCrackCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.RebarCrackCalculatorInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAgAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\RebarCrackCalculatorInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.RebarCrackInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAgAAADAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\RebarCrackInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.RebarCrackResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAACAAgAAAAAAAAAAAAAAAABAAAgAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\RebarCrackResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.RebarStressCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABgAAiAAgABAgAACQAAAAAAAAQAAAAAAAgABI=</HashCode>
+      <FileName>NdmCalculations\Cracking\RebarStressCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.RebarStressResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAAggAAAAAgAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\RebarStressResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.SectionCrackedLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAABCAAgAAAAAAAIIAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\SectionCrackedLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.StressStateFactorLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAhAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\StressStateFactorLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.TensileConcreteAreaLogicSP63" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAABIAAgAAAAAAAAAAABAAAAAAASAAAAAAAACAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\TensileConcreteAreaLogicSP63.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.TensionRebarAreaByStrainLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAABQAAAAAAQAAAAAAAAAQA=</HashCode>
+      <FileName>NdmCalculations\Cracking\TensionRebarAreaByStrainLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.TensionRebarAreaSimpleSumLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAABQAAAAAAQAAAAAAAAAQA=</HashCode>
+      <FileName>NdmCalculations\Cracking\TensionRebarAreaSimpleSumLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.TupleCrackCalculator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAiEAAAAQAgKABABAAiAAQoAKQAAAAACDAAAAAAUBI=</HashCode>
+      <FileName>NdmCalculations\Cracking\TupleCrackCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.TupleCrackInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAABAAAABgAAAAAAAAAAAAAAAAAAAEAAAg=</HashCode>
+      <FileName>NdmCalculations\Cracking\TupleCrackInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.TupleCrackResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAgAAACAAgAAAAAAAAAAAAAAAABAACAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\TupleCrackResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.UserCrackInputData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAQBAAAAAAAiAAAAAAABAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\UserCrackInputData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Cracking.UserCrackInputDataUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\UserCrackInputDataUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.BaseUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAAABAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\Logics\BaseUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.CircleUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\Logics\CircleUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.DivisionPropsUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\Logics\DivisionPropsUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.NdmPrimitiveUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\Logics\NdmPrimitiveUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.PointUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\Logics\PointUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.RebarUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\Logics\RebarUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.RectangleUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\Logics\RectangleUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.VisualPropsUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\Logics\VisualPropsUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.CirclePrimitive" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAIAATAAAAgAEAgAgAQAAICCAAAAAAABAAAIADA=</HashCode>
+      <FileName>NdmCalculations\Primitives\CirclePrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.LinePrimitive" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACBIIAITABQAgAGAAAAAQAAISCAAAAAAAAAAAAADg=</HashCode>
+      <FileName>NdmCalculations\Primitives\LinePrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.NamedAreaPoint" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\NamedAreaPoint.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.RebarPrimitive" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAIAAAAAAAkAEACAgAQAAICCAAAAIACAAQAIABA=</HashCode>
+      <FileName>NdmCalculations\Primitives\RebarPrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.RectanglePrimitive" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAIABTAAAAkAEAAAgEQAAICCAAAAAEAAAAAIADA=</HashCode>
+      <FileName>NdmCalculations\Primitives\RectanglePrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Primitives.VisualProperty" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAEAAAAAAAAAIAAAAAAAABAAAAgAAAABA=</HashCode>
+      <FileName>NdmCalculations\Primitives\VisualProperty.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Primitives.PointPrimitive" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAIAAAAAAAkAEAAAgAQAAICCAAAAAAAAAQAIABA=</HashCode>
+      <FileName>NdmCalculations\Primitives\PointPrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Primitives.LinePrimitive" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAIAAAAAAAAAAAAAAAAQAAAEAAAAAAAAAAAAIABA=</HashCode>
+      <FileName>Models\Primitives\LinePrimitive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Triangulations.CircleTriangulationLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Triangulations\CircleTriangulationLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Triangulations.CircleTriangulationLogicOptions" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAAAAAAAAAABAgCAAAAAAAAAAAIAAI=</HashCode>
+      <FileName>NdmCalculations\Triangulations\CircleTriangulationLogicOptions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Triangulations.PointTriangulationLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Triangulations\PointTriangulationLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Triangulations.PointTriangulationLogicOptions" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAQAIAAI=</HashCode>
+      <FileName>NdmCalculations\Triangulations\PointTriangulationLogicOptions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Triangulations.RebarTriangulationLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAAAAAAAAAAAAAAAACAAAAAABAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Triangulations\RebarTriangulationLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Triangulations.RebarTriangulationLogicOptions" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAACAAQAIAAI=</HashCode>
+      <FileName>NdmCalculations\Triangulations\RebarTriangulationLogicOptions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Triangulations.RectangleTriangulationLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Triangulations\RectangleTriangulationLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Triangulations.RectangleTriangulationLogicOptions" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAAAAAAAAAABAAiAAAAAAAAAAAIAAI=</HashCode>
+      <FileName>NdmCalculations\Triangulations\RectangleTriangulationLogicOptions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Triangulations.Triangulation1" Collapsed="true">
+    <Position X="36.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAEAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Triangulations\Triangulation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Triangulations.TriangulationOptions" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Triangulations\TriangulationOptions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.NdmCalculations.Triangulations.TriangulationService" Collapsed="true">
+    <Position X="17" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Triangulations\TriangulationService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Arrays.RectangleArray" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACiAAAABAAAAAQARAAEAEwAAAAAAAIAAEAAAABIgAg=</HashCode>
+      <FileName>Models\Arrays\RectangleArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Calculations.CalculationProperties.CalculationProperty" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAEBAA=</HashCode>
+      <FileName>Models\Calculations\CalculationProperties\CalculationProperty.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Calculations.CalculationProperties.ForceCombination" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculations\CalculationProperties\ForceCombination.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Calculations.CalculationProperties.IterationProperty" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculations\CalculationProperties\IterationProperty.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Calculations.CalculationsResults.CalculationResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculations\CalculationsResults\CalculationResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.CrossSections.CrossSection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CrossSections\CrossSection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.CrossSections.CrossSectionRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAFAAAAAAAAAAIAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\CrossSections\CrossSectionRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.HeadMaterialFactory" Collapsed="true">
+    <Position X="36.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAIAQAQAEAAAAAAAAAAAACAAAAEQAAAAACAAEA=</HashCode>
+      <FileName>Models\Materials\Factories\HeadMaterialFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.PartialCoefficientFactory" Collapsed="true">
+    <Position X="17" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAABAQAAAAAACAAAAAQAAAAAAAAACAAAEA=</HashCode>
+      <FileName>Models\Materials\Factories\PartialCoefficientFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.FRMaterial" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAQgAERAAAAAQAABAAQAAAABEAAAAAAAAAAABA=</HashCode>
+      <FileName>Models\Materials\FRMaterials\FRMaterial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.ConcreteLibUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Logics\ConcreteLibUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.ElasticMaterialLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Logics\ElasticMaterialLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.ElasticUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Logics\ElasticUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.FRUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Logics\FRUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.LibMaterialUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Logics\LibMaterialUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.MaterialUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAEAAAAAAACQAAAAACAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Logics\MaterialUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.ReinforcementLibUpdateStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Logics\ReinforcementLibUpdateStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.ConcreteLibMaterial" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAgAQAQEBAAADAQAiBQAAAgQAAgAAAAAACAAAAhA=</HashCode>
+      <FileName>Models\Materials\ConcreteLibMaterial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.ElasticMaterial" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQgAEBAAAAAQAAAAAQAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Models\Materials\ElasticMaterial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.HeadMaterialRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAIAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\HeadMaterialRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.LibMaterial" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBQCAMBAQIAAAAABAQAAAAAAgAEAgAEAAAAAhA=</HashCode>
+      <FileName>Models\Materials\LibMaterial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.ReinforcementLibMaterial" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAgAQAAEBAAAAAAAgBAAAAAQAAgAAAAAACAAAAhA=</HashCode>
+      <FileName>Models\Materials\ReinforcementLibMaterial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Materials.StudyElasticMaterial" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQgAEBAAAAAQAAAAAQAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Models\Materials\StudyElasticMaterial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelper.Models.Materials.HeadMaterial" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAUAAABAAAAAAAAAAQAgAAAAACAAAAAgAAAABA=</HashCode>
+      <FileName>Models\Materials\HeadMaterial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Templates.CrossSections.RCs.CircleGeometryLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEABAAAAAAAAAAAEgAAEEAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\RCs\CircleGeometryLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Templates.CrossSections.RCs.CircleTemplate" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Templates\CrossSections\RCs\CircleTemplate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Templates.CrossSections.RCs.MaterialLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\RCs\MaterialLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Templates.CrossSections.RCs.RectGeometryLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABAEAAAAAAAEARARAAAIAAAAEEgAAEAAAAAAAAABAg=</HashCode>
+      <FileName>Models\Templates\CrossSections\RCs\RectGeometryLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Templates.CrossSections.RCs.SectionTemplate" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEAAAAACAAAQCAAAAAAAAAAAAAABiAAAAAAM=</HashCode>
+      <FileName>Models\Templates\CrossSections\RCs\SectionTemplate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Templates.RCs.RectangleBeamTemplate" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgEAAAAAAAAAAQAQEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\RCs\RectangleBeamTemplate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Templates.CrossSections.CalculatorLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\CalculatorLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Models.Templates.CrossSections.ForceLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\ForceLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.MaterialBuilders.RestrictStrainDecorator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAgAAAAAAAAAAAQIAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>MaterialBuilders\Decorators\RestrictStrainDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.MaterialBuilders.Decorators.RestrictStrainOption" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAAAAAAAAAAgAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MaterialBuilders\Decorators\RestrictStrainOption.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Services.NdmCalculations.CalculationService" Collapsed="true">
+    <Position X="27.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAIAAAAAQA=</HashCode>
+      <FileName>Services\NdmCalculations\CalculationService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperLogics.Services.NdmCalculations.InterpolateService" Collapsed="true">
+    <Position X="18.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\NdmCalculations\InterpolateService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperLogics.Services.NdmPrimitives.CheckPrimitivesForMeshingLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\NdmPrimitives\CheckPrimitivesForMeshingLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Services.NdmPrimitives.MeshCrackedConcreteLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCAAAAABAAAgQigAQAAAAAAAAEAAAAAAAAAAAIAAEAA=</HashCode>
+      <FileName>Services\NdmPrimitives\MeshCrackedConcreteLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Services.NdmPrimitives.MeshElasticLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAwQCAAAAAAAAAAAAAAAAAAAAAAAIAAQAA=</HashCode>
+      <FileName>Services\NdmPrimitives\MeshElasticLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Services.NdmPrimitives.MeshHasDivisionLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAgAAAAAAAAAAAAAAAAAABAAAAAAIAAAAA=</HashCode>
+      <FileName>Services\NdmPrimitives\MeshHasDivisionLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Services.NdmPrimitives.MeshPrimitiveLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAwQAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Services\NdmPrimitives\MeshPrimitiveLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Services.NdmPrimitives.TextParametersLogic" Collapsed="true">
+    <Position X="31" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAFAACAAAAAACIIIAAAAAAYAIAAAAAQEAgABIA=</HashCode>
+      <FileName>Services\NdmPrimitives\TextParametersLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureHelperLogics.Services.NdmPrimitives.TriangulatePrimitiveLogic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAIBAAAAgBAgAAIEAAAAAAEABAAAAAEEAAAAABAA=</HashCode>
+      <FileName>Services\NdmPrimitives\TriangulatePrimitiveLogic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StructureHelperLogics.Services.TraceService" Collapsed="true">
+    <Position X="32.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\TraceService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurve.Factories.IGetPredicateLogic" Collapsed="true">
+    <Position X="29.25" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\Factories\IGetPredicateLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ILimitCurveCalculator" Collapsed="true">
+    <Position X="17" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIYAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\ILimitCurveCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ILimitCurveLogic" Collapsed="true">
+    <Position X="18.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\ILimitCurveLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ILimitCurveParameterLogic" Collapsed="true">
+    <Position X="20.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAQAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\ILimitCurveParameterLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.ISurroundProc" Collapsed="true">
+    <Position X="22.25" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\ISurroundProc.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.IForceTupleTraceResultLogic" Collapsed="true">
+    <Position X="24" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\Logics\IForceTupleTraceResultLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.IProcessTupleInputData" Collapsed="true">
+    <Position X="36.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABgAAAAAAAAAgAAEAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\Logics\IProcessTupleInputData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.IProcessTupleLogic" Collapsed="true">
+    <Position X="38" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\Logics\IProcessTupleLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.IForceCalculator" Collapsed="true">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAEAAAAAQAAAAAAIAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\IForceCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.IForceInputData" Collapsed="true">
+    <Position X="34.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\IForceInputData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.IForcesResults" Collapsed="true">
+    <Position X="38" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgBAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\IForcesResults.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.IForcesTupleResult" Collapsed="true">
+    <Position X="17" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\IForcesTupleResult.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.IForceTupleCalculator" Collapsed="true">
+    <Position X="20.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\IForceTupleCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.IForceTupleInputData" Collapsed="true">
+    <Position X="22.25" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\IForceTupleInputData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.Geometry.IGeometryCalculator" Collapsed="true">
+    <Position X="25.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\Geometry\IGeometryCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.Geometry.IGeometryResult" Collapsed="true">
+    <Position X="27.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\Geometry\IGeometryResult.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.RC.IAnchorageCalculator" Collapsed="true">
+    <Position X="17" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAACAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\RC\IAnchorageCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.RC.IAnchorageInputData" Collapsed="true">
+    <Position X="18.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAIgAAAAAAAoAAAAAAAAAAAAABAAAAAAAAgg=</HashCode>
+      <FileName>NdmCalculations\Analyses\RC\IAnchorageInputData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Analyses.IExportResultLogic" Collapsed="true">
+    <Position X="31" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\IExportResultLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Buckling.IBucklingOptions" Collapsed="true">
+    <Position X="7" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAARAAAAAEAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\IBucklingOptions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Buckling.IConcreteBucklingCalculator" Collapsed="true">
+    <Position X="29.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\IConcreteBucklingCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Buckling.IConcreteBucklingOptions" Collapsed="true">
+    <Position X="7" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>NdmCalculations\Buckling\IConcreteBucklingOptions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Buckling.IConcreteBucklingResult" Collapsed="true">
+    <Position X="31" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\IConcreteBucklingResult.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Buckling.IConcreteDeltaELogic" Collapsed="true">
+    <Position X="32.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\IConcreteDeltaELogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Buckling.IConcretePhiLLogic" Collapsed="true">
+    <Position X="34.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\IConcretePhiLLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Buckling.ICriticalBucklingForceLogic" Collapsed="true">
+    <Position X="1" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\ICriticalBucklingForceLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Buckling.IEilerCriticalForceLogic" Collapsed="true">
+    <Position X="1" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAQAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\IEilerCriticalForceLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Buckling.IForceTupleBucklingLogic" Collapsed="true">
+    <Position X="18.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\IForceTupleBucklingLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Buckling.IRCStiffnessLogic" Collapsed="true">
+    <Position X="17" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>NdmCalculations\Buckling\IRCStiffnessLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.ICrackSofteningLogic" Collapsed="true">
+    <Position X="17" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\SofteningLogics\ICrackSofteningLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.IAverageDiameterLogic" Collapsed="true">
+    <Position X="20.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>NdmCalculations\Cracking\IAverageDiameterLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.ICrackedLogic" Collapsed="true">
+    <Position X="36.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABCAAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\ICrackedLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.ICrackedSectionTriangulationLogic" Collapsed="true">
+    <Position X="38" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAIAAAAAAAAAAAACABAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\ICrackedSectionTriangulationLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.ICrackStrainLogic" Collapsed="true">
+    <Position X="18.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAhAAAAAAQBAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\ICrackStrainLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.ICrackWidthLogic" Collapsed="true">
+    <Position X="20.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\ICrackWidthLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.ICrackWidthLogicInputData" Collapsed="true">
+    <Position X="22.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\ICrackWidthLogicInputData.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.ICrackWidthTupleResult" Collapsed="true">
+    <Position X="24" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA=</HashCode>
+      <FileName>NdmCalculations\Cracking\ICrackWidthTupleResult.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.IGetTupleInputDatasLogic" Collapsed="true">
+    <Position X="12" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAQAAAAAAAAAAAAAAAAAIACAAAAAABAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\IGetTupleInputDatasLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.ILengthBetweenCracksLogic" Collapsed="true">
+    <Position X="38" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAABAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\ILengthBetweenCracksLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.ISectionCrackedLogic" Collapsed="true">
+    <Position X="18.75" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAABCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\ISectionCrackedLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.IStressStateFactorLogic" Collapsed="true">
+    <Position X="20.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\IStressStateFactorLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.ITensileConcreteAreaLogic" Collapsed="true">
+    <Position X="24" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Cracking\ITensileConcreteAreaLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Cracking.ITensionRebarAreaLogic" Collapsed="true">
+    <Position X="25.75" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>NdmCalculations\Cracking\ITensionRebarAreaLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Primitives.ICirclePrimitive" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\ICirclePrimitive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Primitives.IHasDivisionSize" Collapsed="true">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>NdmCalculations\Primitives\IHasDivisionSize.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Primitives.IHasHostPrimitive" Collapsed="true">
+    <Position X="31" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\IHasHostPrimitive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Primitives.IHasPrimitives" Collapsed="true">
+    <Position X="8.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\IHasPrimitives.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Primitives.ILinePrimitive" Collapsed="true">
+    <Position X="11.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\ILinePrimitive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Primitives.INamedAreaPoint" Collapsed="true">
+    <Position X="31" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\INamedAreaPoint.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Primitives.INdmPrimitive" Collapsed="true">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAIAAAAAAAkAAAAAgAQAAICCAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\INdmPrimitive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Primitives.IPointPrimitive" Collapsed="true">
+    <Position X="3.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\IPointPrimitive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Primitives.IRectanglePrimitive" Collapsed="true">
+    <Position X="3.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\IRectanglePrimitive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Primitives.IVisualProperty" Collapsed="true">
+    <Position X="32.75" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAEAAAAAAAAAIAAAAAAAABAAAAgAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Primitives\IVisualProperty.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Primitives.IPrimitive" Collapsed="true">
+    <Position X="34.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAQAAAEAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Models\Primitives\IPrimitive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Triangulations.IShapeTriangulationLogicOptions" Collapsed="true">
+    <Position X="11" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>NdmCalculations\Triangulations\IShapeTriangulationLogicOptions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Triangulations.ITriangulationLogic" Collapsed="true">
+    <Position X="29.25" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Triangulations\ITriangulationLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Triangulations.ITriangulationLogicOptions" Collapsed="true">
+    <Position X="11" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>NdmCalculations\Triangulations\ITriangulationLogicOptions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.NdmCalculations.Triangulations.ITriangulationOptions" Collapsed="true">
+    <Position X="31" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Triangulations\ITriangulationOptions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Arrays.IGeometryArray" Collapsed="true">
+    <Position X="4" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAgAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Arrays\IGeometryArray.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Arrays.IGeometryArrayMember" Collapsed="true">
+    <Position X="4" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAg=</HashCode>
+      <FileName>Models\Arrays\IGeometryArrayMember.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Calculations.CalculationProperties.ICalculationProperty" Collapsed="true">
+    <Position X="22.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAEBAA=</HashCode>
+      <FileName>Models\Calculations\CalculationProperties\ICalculationProperty.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Calculations.CalculationProperties.IForceCombination" Collapsed="true">
+    <Position X="32.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculations\CalculationProperties\IForceCombination.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Calculations.CalculationProperties.IIterationProperty" Collapsed="true">
+    <Position X="36.25" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculations\CalculationProperties\IIterationProperty.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Calculations.CalculationsResults.ICalculationResult" Collapsed="true">
+    <Position X="24" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAIAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Calculations\CalculationsResults\ICalculationResult.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.CrossSections.ICrossSection" Collapsed="true">
+    <Position X="25.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CrossSections\ICrossSection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.CrossSections.ICrossSectionRepository" Collapsed="true">
+    <Position X="8.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\CrossSections\ICrossSectionRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Materials.IFRMaterial" Collapsed="true">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAABEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\FRMaterials\IFRMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Materials.IElasticMaterialLogic" Collapsed="true">
+    <Position X="29.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Logics\IElasticMaterialLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Materials.IConcreteLibMaterial" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAQAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\IConcreteLibMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Materials.IElasticMaterial" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\IElasticMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Materials.IHasHeadMaterials" Collapsed="true">
+    <Position X="14.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\IHasHeadMaterials.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Materials.IHeadMaterialRepository" Collapsed="true">
+    <Position X="34.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAIAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\IHeadMaterialRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Materials.IHelperMaterial" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\IHelperMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Materials.ILibMaterial" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAABAAAAAAAAgAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\Materials\ILibMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Materials.IMaterialOptionLogic" Collapsed="true">
+    <Position X="25.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\IMaterialOptionLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Materials.IReinforcementLibMaterial" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\IReinforcementLibMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelper.Models.Materials.IHeadMaterial" Collapsed="true">
+    <Position X="32.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAUAAABAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Materials\IHeadMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Templates.CrossSections.RCs.ICircleTemplate" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Templates\CrossSections\RCs\ICircleTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Templates.CrossSections.RCs.IRCGeometryLogic" Collapsed="true">
+    <Position X="1" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\RCs\IRCGeometryLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Templates.CrossSections.RCs.IRCSectionTemplate" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\RCs\IRCSectionTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Templates.RCs.IRectangleBeamTemplate" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgEAAAAAAAAAAQAQEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\RCs\IRectangleBeamTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Templates.CrossSections.ICalculatorLogic" Collapsed="true">
+    <Position X="25.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\ICalculatorLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Templates.CrossSections.ICrossSectionTemplate" Collapsed="true">
+    <Position X="27.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\ICrossSectionTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Templates.CrossSections.IForceLogic" Collapsed="true">
+    <Position X="36.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\IForceLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Templates.CrossSections.IMaterialLogic" Collapsed="true">
+    <Position X="24" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\IMaterialLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Models.Templates.CrossSections.ISectionGeometryLogic" Collapsed="true">
+    <Position X="1" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Templates\CrossSections\ISectionGeometryLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.MaterialBuilders.IDecoratorOption" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MaterialBuilders\Decorators\IDecoratorOption.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.MaterialBuilders.IBearingOption" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAgAAAAAAAAAAAABQAAAAAAAAAAAABEA=</HashCode>
+      <FileName>MaterialBuilders\IBearingOption.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.MaterialBuilders.IMaterialBuilder" Collapsed="true">
+    <Position X="22.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MaterialBuilders\IMaterialBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.MaterialBuilders.IMaterialOption" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MaterialBuilders\IMaterialOption.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.MaterialBuilders.IPartialFactor" Collapsed="true">
+    <Position X="32.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MaterialBuilders\IPartialFactor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Services.NdmPrimitives.ICheckPrimitivesForMeshingLogic" Collapsed="true">
+    <Position X="27.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\NdmPrimitives\ICheckPrimitivesForMeshingLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Services.NdmPrimitives.IMeshHasDivisionLogic" Collapsed="true">
+    <Position X="27.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAABAAAAAAIAAAAA=</HashCode>
+      <FileName>Services\NdmPrimitives\IMeshHasDivisionLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Services.NdmPrimitives.IMeshPrimitiveLogic" Collapsed="true">
+    <Position X="29.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Services\NdmPrimitives\IMeshPrimitiveLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StructureHelperLogics.Services.NdmPrimitives.ITriangulatePrimitiveLogic" Collapsed="true">
+    <Position X="27.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAgAAAEAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Services\NdmPrimitives\ITriangulatePrimitiveLogic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.LimitCurve.ForceCurveLogic" Collapsed="true">
+    <Position X="17" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAYAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\Factories\ConvertLogicFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperLogics.NdmCalculations.Analyses.ByForces.PredicateTypes" Collapsed="true">
+    <Position X="20.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NdmCalculations\Analyses\ByForces\LimitCurve\Factories\PredicateFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="StructureHelperLogics.Models.Materials.HeadmaterialType" Collapsed="true">
+    <Position X="18.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQAAAAAAAAAAAgkBAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Materials\Factories\HeadMaterialFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
